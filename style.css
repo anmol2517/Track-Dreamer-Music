@@ -26,6 +26,7 @@ nav ul{
 nav ul li{
     padding: 0 12px;
 }
+
 .brand img{
     width: 44px;
     padding: 0 8px;
@@ -83,7 +84,6 @@ nav ul li{
     height: 50px;
     display: flex;
     background-color: white;
-    
     color: black;
     margin: 12px 0;
     justify-content: space-between;
@@ -121,6 +121,4 @@ nav ul li{
     background-color: red;
     }
 }
-
-
 
